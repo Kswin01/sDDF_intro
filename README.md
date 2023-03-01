@@ -51,3 +51,4 @@ https://docs.sel4.systems/projects/buildsystem/host-dependencies.html
 ```
 -L$(BOARD_DIR)/lib -Llib
 ````
+10. Follow the rest of the build commands in the sDDF repo.
